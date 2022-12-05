@@ -13,7 +13,7 @@ namespace Lab1 {
         public Lab1byte() {
             Left = 10;
             Right = 15;
-            result = 0;
+            result = 10;
         }
         public void Operators() {
 
